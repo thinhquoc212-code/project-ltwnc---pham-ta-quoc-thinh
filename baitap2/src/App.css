@@ -102,7 +102,23 @@ footer {
 }
 .more{
   width: 40%;
-  border-radius:black, 5px;
+  border-radius: 10px;
   height: auto;
   min-height: 40px;
+  background-color: #00b5bb;
+  color: black;
+  font-size: 15px;
+}
+.cmtbt{
+    width: 20%;
+    min-width: 200px;
+  border-radius: 10px;
+  height: auto;
+  min-height: 40px;
+  background-color: #00b5bb;
+  color: black;
+  font-size: 25px;
+}
+ul {
+  list-style: none;
 }
